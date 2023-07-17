@@ -2,9 +2,16 @@
 
 ![MERU](https://kurotaku.de/assets/projects/meru)
 
-I created this programm to bulk rename episodes semi-automatic.
-The naming scheme this program generates is "Series - (Optional Season)Episode - Episodes name"
+I created this program to bulk rename episodes semi-automatic.
+The naming scheme this program generates is 
+"Series - (Optional Season)Episode - Episodes name"
 
+But why did I make just another program to bulk rename files?
+The Answer is: Because I wanted to keep it simple, other tools require mostly additional work like creating txt files with original file name and new file name and other various preparation.
+On this tool you just can copy all episode names from a site of your choice and rename all your new downloaded files in seconds.
+
+
+### Options / Instructions
 When pressing start rename it searches by default only for this filetypes
 .mkv .avi .mpg .mp4 .wmv .mov .flv .sfw .m4v .rm
 If there is another filetype you have to select custom filetype and than only this filetype will be searched.
