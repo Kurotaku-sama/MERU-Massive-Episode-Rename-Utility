@@ -24,7 +24,12 @@ This can be disabled through a option.
 
 The magnifier icon is a searches the series name on the german site fernsehserien.de since this was made for myself to get episodenames fast.
 
-Be carefull before renaming files, make sure that none of these is in use to prevent that an error occure!
+**Be carefull before renaming files, make sure that none of these is in use to prevent that an error occure!**
 
 ### If an error occurs the previous rename will not be undone
 ## I do not give any guarantee if something does not go according to you plan if you dont feel sure create a testfolder with test txt files and try it out there
+
+**The programm uses following Packages:**
+- Costura.Fody 4.1.0
+- Fody 6.0.0
+- Infragistics.Themes.MetroDark.Wpf 1.0.0
