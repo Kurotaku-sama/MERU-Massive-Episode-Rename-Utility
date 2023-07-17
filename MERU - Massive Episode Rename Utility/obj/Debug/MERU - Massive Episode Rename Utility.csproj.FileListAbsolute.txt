@@ -1,0 +1,48 @@
+A:\Users\Kuro\Documents\Dokumente\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\bin\Debug\MERU - Massive Episode Rename Utility.exe.config
+A:\Users\Kuro\Documents\Dokumente\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\bin\Debug\MERU - Massive Episode Rename Utility.exe
+A:\Users\Kuro\Documents\Dokumente\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\bin\Debug\MERU - Massive Episode Rename Utility.pdb
+A:\Users\Kuro\Documents\Dokumente\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\MERU - Massive Episode Rename Utility.csprojAssemblyReference.cache
+A:\Users\Kuro\Documents\Dokumente\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\Themes\MetroDark\MetroDark.MSControls.Core.Implicit.baml
+A:\Users\Kuro\Documents\Dokumente\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\Themes\MetroDark\MetroDark.MSControls.Toolkit.Implicit.baml
+A:\Users\Kuro\Documents\Dokumente\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\Themes\MetroDark\Styles.Shared.baml
+A:\Users\Kuro\Documents\Dokumente\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\Themes\MetroDark\Styles.WPF.baml
+A:\Users\Kuro\Documents\Dokumente\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\Themes\MetroDark\Theme.Colors.baml
+A:\Users\Kuro\Documents\Dokumente\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\MainWindow.g.cs
+A:\Users\Kuro\Documents\Dokumente\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\MessageBoxWindow.g.cs
+A:\Users\Kuro\Documents\Dokumente\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\App.g.cs
+A:\Users\Kuro\Documents\Dokumente\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\MERU - Massive Episode Rename Utility_MarkupCompile.cache
+A:\Users\Kuro\Documents\Dokumente\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\MERU - Massive Episode Rename Utility_MarkupCompile.lref
+A:\Users\Kuro\Documents\Dokumente\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\App.baml
+A:\Users\Kuro\Documents\Dokumente\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\MainWindow.baml
+A:\Users\Kuro\Documents\Dokumente\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\MessageBoxWindow.baml
+A:\Users\Kuro\Documents\Dokumente\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\MERU - Massive Episode Rename Utility.g.resources
+A:\Users\Kuro\Documents\Dokumente\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\MERU.Properties.Resources.resources
+A:\Users\Kuro\Documents\Dokumente\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\MERU - Massive Episode Rename Utility.csproj.GenerateResource.cache
+A:\Users\Kuro\Documents\Dokumente\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\MERU - Massive Episode Rename Utility.csproj.Fody.CopyLocal.cache
+A:\Users\Kuro\Documents\Dokumente\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\MERU - Massive Episode Rename Utility.exe
+A:\Users\Kuro\Documents\Dokumente\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\MERU - Massive Episode Rename Utility.pdb
+A:\Programmieren\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\bin\Debug\MERU - Massive Episode Rename Utility.exe.config
+A:\Programmieren\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\bin\Debug\MERU - Massive Episode Rename Utility.exe
+A:\Programmieren\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\bin\Debug\MERU - Massive Episode Rename Utility.pdb
+A:\Programmieren\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\MERU - Massive Episode Rename Utility.csproj.AssemblyReference.cache
+A:\Programmieren\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\MERU - Massive Episode Rename Utility.csproj.SuggestedBindingRedirects.cache
+A:\Programmieren\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\Themes\MetroDark\MetroDark.MSControls.Core.Implicit.baml
+A:\Programmieren\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\Themes\MetroDark\MetroDark.MSControls.Toolkit.Implicit.baml
+A:\Programmieren\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\Themes\MetroDark\Styles.Shared.baml
+A:\Programmieren\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\Themes\MetroDark\Styles.WPF.baml
+A:\Programmieren\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\Themes\MetroDark\Theme.Colors.baml
+A:\Programmieren\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\MainWindow.g.cs
+A:\Programmieren\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\MessageBoxWindow.g.cs
+A:\Programmieren\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\App.g.cs
+A:\Programmieren\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\MERU - Massive Episode Rename Utility_MarkupCompile.cache
+A:\Programmieren\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\MERU - Massive Episode Rename Utility_MarkupCompile.lref
+A:\Programmieren\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\App.baml
+A:\Programmieren\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\MainWindow.baml
+A:\Programmieren\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\MessageBoxWindow.baml
+A:\Programmieren\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\MERU - Massive Episode Rename Utility.g.resources
+A:\Programmieren\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\MERU.Properties.Resources.resources
+A:\Programmieren\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\MERU - Massive Episode Rename Utility.csproj.GenerateResource.cache
+A:\Programmieren\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\MERU - Massive Episode Rename Utility.csproj.CoreCompileInputs.cache
+A:\Programmieren\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\MERU - Massive Episode Rename Utility.csproj.Fody.CopyLocal.cache
+A:\Programmieren\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\MERU - Massive Episode Rename Utility.exe
+A:\Programmieren\Visual Studio\MERU - Massive Episode Rename Utility\MERU - Massive Episode Rename Utility\obj\Debug\MERU - Massive Episode Rename Utility.pdb
